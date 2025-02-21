@@ -1,0 +1,1 @@
+This repository demonstrates a common error in R programming related to calculating the mean of a vector containing `NA` (Not Available) values.  The `bug.R` file contains a function with a subtle error in handling `NA` values. The `bugSolution.R` file provides the corrected version.
